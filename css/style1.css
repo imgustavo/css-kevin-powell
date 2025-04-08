@@ -20,6 +20,17 @@ p {
 }
 
 .links {
-  margin-top: 50px;
+  margin-top: 40px;
   margin-bottom: 0;
+}
+.accent-color {
+  color: #ffe600;
+}
+
+a {
+  color: #ffe600;
+}
+a:hover,
+a:focus {
+  color: aqua;
 }
