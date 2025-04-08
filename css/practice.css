@@ -1,0 +1,38 @@
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.card {
+  background-color: #f1f1f1;
+  padding: 0 15px;
+  margin: 10 10px;
+}
+
+/* h1,
+p {
+  margin-top: 0;
+} */
+h1 {
+  color: #2e7ad3;
+  font-size: 48px;
+  margin: 45px 0;
+}
+
+h2 {
+  color: #104c90;
+  font-size: 32px;
+}
+
+img {
+  width: 300px;
+}
+/* ..................... */
+a {
+  color: #ff8000;
+  font-weight: bold;
+}
+a:hover,
+a:focus {
+  color: #2ae611;
+}
